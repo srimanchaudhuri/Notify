@@ -66,10 +66,6 @@ To deploy the application to a hosting service, follow the deployment instructio
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, please submit an issue or a pull request.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE.md).
-
 ## Acknowledgments
 
 - This application was built using the React framework and Firebase, thanks to the respective development communities for their contributions.
@@ -79,5 +75,5 @@ This project is licensed under the [MIT License](LICENSE.md).
 
 If you have any questions, feel free to reach out:
 
-- Your Name: [your-email@example.com](mailto:your-email@example.com)
+- Your Name: [srimanchaudhuri@gmail.com](mailto:srimanchaudhuri@gmail.com)
 - Project Link: [https://github.com/srimanchaudhuri/notify](https://github.com/srimanchaudhuri/notify)
